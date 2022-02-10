@@ -1,6 +1,6 @@
 # POND2022 Meeting website
 
-Modifed by [Neil Oxtoby et al.](https://github.com/noxtoby) from a website template designed by [cssauthor](http://www.cssauthor.com/) and coded by [Maxim Orlov](https://github.com/orlovmax).
+Modifed by [Neil Oxtoby](https://github.com/noxtoby) *et al.* from a website template designed by [cssauthor](http://www.cssauthor.com/) and coded by [Maxim Orlov](https://github.com/orlovmax).
 
 ## Contents
 
