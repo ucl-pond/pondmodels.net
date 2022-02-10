@@ -1,11 +1,6 @@
-# Design studio one page template - ARCHIVED
+# POND2022 Meeting website
 
-Flat and responsive website template, designed by [cssauthor](http://www.cssauthor.com/) and coded by [Maxim Orlov](https://github.com/orlovmax).
-
-Demo: [http://website-templates.github.io/design-studio_one-page-template](http://website-templates.github.io/design-studio_one-page-template/)
-
-![Mockup demo](screenshots/pic.jpg)
-Product mockup created with [http://frame.lab25.co.uk/](http://frame.lab25.co.uk/)
+Modifed by [Neil Oxtoby et al.](https://github.com/noxtoby) from a website template designed by [cssauthor](http://www.cssauthor.com/) and coded by [Maxim Orlov](https://github.com/orlovmax).
 
 ## Contents
 
